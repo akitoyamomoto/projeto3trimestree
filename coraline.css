@@ -6,7 +6,7 @@ background-color: darkslategray;
 .wrapper {
 
     height: 420px;
-    width: 654ox;
+    width: 654px;
     border: 50px auto;
     border-radius: 7px 7px 7px 7px;
     -webkit-box-shadow: 0px 14px 32px 0px;
@@ -21,3 +21,107 @@ background-color: darkslategray;
     height: 420px;
     width: 327px;
 }
+
+
+.produtotexto h1 {
+  margin: 0 0 0 0 38px;
+  padding-top: 1px;
+  font-size: 34px;
+  color:darkslategrey;
+}
+
+.produtotexto h2 {
+    margin: 0 0 47px 38px;
+    font-size: 13px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    color:darkolivegreen;
+}
+
+.produtotexto p{
+
+    height: 225px;
+    padding-bottom: 100px;
+    margin: 0 0 47px 38px;
+    font-family: 'playfair Display', serif;
+    color:darkslategray;
+    line-height: 1.7em;
+    font-size: 15px;
+    font-weight: lighter;
+    overflow: hidden;
+
+}
+
+.botaopreco {
+
+    height: 103px;
+    padding-right: 50px;
+    width: 327px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.botaopreco p{
+
+    display: inline-block;
+    position: absolute;
+    top:-13px;
+    height: 50px;
+    font-family: 'trocchi', serif;
+    margin: 0 0 0 50px;
+    font-size: 20px;
+    font-weight: lighter;
+    color:darkslategray;
+}  
+
+span{
+
+   display: inline-block;
+   height: 110px;
+   margin: auto;
+   font-family: 'suranna', serif;
+   font-size: 34px;
+  
+}
+
+.botaopreco button {
+
+    float: right;
+    height: 110px;
+    margin: auto;
+    font-family: 'Suranna', serif;
+    font-size: 34px;
+
+
+}
+
+.botaopreco button {
+
+    float: right;
+    display: inline-block;
+    height: 50px;
+    width: 176px;
+    margin: 0 60px 0 16px;
+    box-sizing: border-box;
+    border: transparent;
+    border-radius: 60px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color:black;
+    background-color:dimgray;
+    cursor: pointer;
+    outline: none;
+}
+
+.botaopreco button:hover {
+background-color: grey;
+
+}
+
+
+
+
+
