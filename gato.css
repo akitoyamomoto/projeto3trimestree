@@ -1,3 +1,18 @@
-#gato {width: 20%;
+.title{
+    color: rgba(0, 1, 2, 0.856);
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: x-large;
+}
 
+
+.bemestar{
+
+}
+
+#gato1{
+
+    width: 30%
+    
 }
