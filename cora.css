@@ -1,0 +1,30 @@
+body{
+    background-image:"coraline.png" ;
+    background-color:midnightblue;
+}
+
+.container{
+
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+   
+
+
+
+}
+h1{
+    color:ghostwhite(255, 250, 250);
+    font-family: sans-serif;
+    margin: 0px auto;
+
+}
+.box{
+    display: flex;
+
+
+}
+p{
+    color:aliceblue;
+    padding: 50px;
+}f
