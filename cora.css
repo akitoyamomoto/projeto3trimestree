@@ -1,4 +1,4 @@
-ody{
+body{
     background-image:"coraline.png" ;
     background-color:midnightblue;
   
@@ -39,4 +39,13 @@ p{
 }
 p{
     font-family:cursive;
+    }
+    .teorias{
+
+        font-family:sans-serif;
+        font-size: medium;
+        color:aliceblue;
+        padding: 50px;
+        margin: 3px;
+
     }
